@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\ThePlayer\bin\Debug\ThePlayer.exe.config
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\ThePlayer\bin\Debug\ThePlayer.exe
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\ThePlayer\bin\Debug\ThePlayer.pdb
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\ThePlayer\obj\Debug\ThePlayer.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\ThePlayer\obj\Debug\ThePlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\ThePlayer\obj\Debug\ThePlayer.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\ThePlayer\obj\Debug\ThePlayer.exe
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\ThePlayer\obj\Debug\ThePlayer.pdb

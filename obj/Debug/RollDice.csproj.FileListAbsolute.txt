@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\RollDice\bin\Debug\RollDice.exe.config
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\RollDice\bin\Debug\RollDice.exe
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\RollDice\bin\Debug\RollDice.pdb
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\RollDice\obj\Debug\RollDice.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\RollDice\obj\Debug\RollDice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\RollDice\obj\Debug\RollDice.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\RollDice\obj\Debug\RollDice.exe
+C:\Users\Uday\OneDrive\Desktop\SnaksandLadder\RollDice\obj\Debug\RollDice.pdb
